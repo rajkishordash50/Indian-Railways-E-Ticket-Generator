@@ -76,4 +76,4 @@ Metric	Result
 
 
 **6 Screenshot / Demo**
-see the demo :
+see the demo :   https://github.com/rajkishordash50/Indian-Railways-E-Ticket-Generator/blob/main/IRCTC%20TICKET%20PROJECT%20IMAGE.jpg
